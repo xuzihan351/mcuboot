@@ -25,4 +25,4 @@
 	branch = release/v4.4
 [submodule "boot/hpmicro/hal/hpm_sdk"]
 	path = boot/hpmicro/hal/hpm_sdk
-	url = https://github.com/hpmicro/hpm_sdk.git
+	url = https://github.com/xuzihan351/hpm_sdk.git
